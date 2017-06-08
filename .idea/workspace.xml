@@ -19,7 +19,11 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
+<<<<<<< HEAD
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+>>>>>>> second/feature
               <folding />
             </state>
           </provider>
@@ -168,15 +172,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496926650882</updated>
+<<<<<<< HEAD
       <workItem from="1496926654599" duration="683000" />
+=======
+      <workItem from="1496926654599" duration="1123000" />
+>>>>>>> second/feature
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-389" y="0" width="1938" height="1050" extended-state="1" />
+=======
+    <option name="totallyTimeSpent" value="1123000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-389" y="0" width="1938" height="1050" extended-state="0" />
+>>>>>>> second/feature
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -211,7 +226,11 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
+<<<<<<< HEAD
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+>>>>>>> second/feature
           <folding />
         </state>
       </provider>
